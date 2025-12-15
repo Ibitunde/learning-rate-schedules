@@ -147,32 +147,6 @@ learning-rate-schedules/
     └── transcript.txt
 ```
 
----
-
-## 🎥 Video Tutorial
-
-**Duration:** 10 minutes  
-**Link:** [YouTube Link - To be added]
-
-Includes visual explanations, live results, and practical guidance with captions for accessibility.
-
----
-
-## 📝 Citation
-
-If you use this work, please cite:
-```bibtex
-@misc{lr_schedules_2025,
-  title={Learning Rate Schedules: A Comprehensive Comparative Study},
-  author={Your Name},
-  year={2025},
-  publisher={GitHub},
-  url={https://github.com/YOUR_USERNAME/learning-rate-schedules}
-}
-```
-
----
-
 ## ♿ Accessibility
 
 This project prioritizes accessibility:
@@ -237,5 +211,6 @@ See notebook for complete bibliography.
 **⭐ If this helped you, please star the repository!**
 
 ---
+
 
 *Last updated: December 2025*
